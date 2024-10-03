@@ -1,0 +1,30 @@
+{
+  "googleServices": [],
+  "clarity": [
+    {
+      "id": "1726870136993",
+      "name": "123",
+      "value": "123"
+    }
+  ],
+  "aiServices": [
+    {
+      "id": "1726863712517",
+      "name": "123",
+      "type": "openai",
+      "apiKey": "123"
+    }
+  ],
+  "userInfo": {
+    "name": "123",
+    "email": "123",
+    "discordWebhook": "123"
+  },
+  "blogGenerator": {
+    "webhooks": []
+  },
+  "coldEmail": {
+    "enabled": false,
+    "dailyLimit": 0
+  }
+}

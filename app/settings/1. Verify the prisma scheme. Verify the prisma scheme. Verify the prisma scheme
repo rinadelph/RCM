@@ -1,0 +1,5 @@
+1. Verify the prisma scheme
+2. Check the Oauth flow to ensure the private key
+is being saved
+3. Add the additional logging
+4. Test the search console data fetching again
